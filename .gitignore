@@ -1,0 +1,6 @@
+.eunit
+*.so
+*.o
+ebin
+deps
+*.iml

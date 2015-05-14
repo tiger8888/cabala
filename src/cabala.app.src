@@ -1,0 +1,6 @@
+{application, cabala, [
+    {description, "BSON Decoder/Encoder."},
+    {vsn, "0.1.0"},
+    {registered, []},
+    {applications, [kernel, stdlib]}
+]}.
