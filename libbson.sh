@@ -2,7 +2,7 @@
 
 [ -f ./deps/libbson/.libs/libbson.a ] && exit 0
 
-if [ ! -x deps]; then
+if [ ! -d deps ]; then
     mkdir deps
 fi
 cd deps
